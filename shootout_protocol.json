@@ -1,0 +1,86 @@
+[
+    {
+        "shooter": "Cowboy 1",
+        "target": "Cowboy 2",
+        "health_lost": 4,
+        "remaining_hp": 6
+    },
+    {
+        "shooter": "Cowboy 3",
+        "target": "Cowboy 4",
+        "health_lost": 1,
+        "remaining_hp": 9
+    },
+    {
+        "shooter": "Cowboy 1",
+        "target": "Cowboy 2",
+        "health_lost": 5,
+        "remaining_hp": 1
+    },
+    {
+        "shooter": "Cowboy 1",
+        "target": "Cowboy 2",
+        "health_lost": 5,
+        "remaining_hp": -4
+    },
+    {
+        "shooter": "Cowboy 3",
+        "target": "Cowboy 4",
+        "health_lost": 1,
+        "remaining_hp": 8
+    },
+    {
+        "shooter": "Cowboy 1",
+        "target": "Cowboy 3",
+        "health_lost": 5,
+        "remaining_hp": 5
+    },
+    {
+        "shooter": "Cowboy 4",
+        "target": "Cowboy 1",
+        "health_lost": 2,
+        "remaining_hp": 8
+    },
+    {
+        "shooter": "Cowboy 1",
+        "target": "Cowboy 3",
+        "health_lost": 1,
+        "remaining_hp": 4
+    },
+    {
+        "shooter": "Cowboy 3",
+        "target": "Cowboy 4",
+        "health_lost": 3,
+        "remaining_hp": 5
+    },
+    {
+        "shooter": "Cowboy 4",
+        "target": "Cowboy 1",
+        "health_lost": 3,
+        "remaining_hp": 5
+    },
+    {
+        "shooter": "Cowboy 4",
+        "target": "Cowboy 1",
+        "health_lost": 4,
+        "remaining_hp": 1
+    },
+    {
+        "shooter": "Cowboy 1",
+        "target": "Cowboy 3",
+        "health_lost": 4,
+        "remaining_hp": 0
+    },
+    {
+        "shooter": "Cowboy 1",
+        "target": "Cowboy 4",
+        "health_lost": 3,
+        "remaining_hp": 2
+    },
+    {
+        "shooter": "Cowboy 4",
+        "target": "Cowboy 1",
+        "health_lost": 2,
+        "remaining_hp": -1
+    }
+]
